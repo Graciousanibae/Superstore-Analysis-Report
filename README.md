@@ -58,7 +58,8 @@ I used the KPI tile to visualize my KPI. i could also use the Card tile.
 
 
 3. Profit by Categories ?
-   ![Profit by category](https://github.com/user-attachments/assets/544915ee-dac6-4e38-8630-65b8b7536985)
+
+    ![Profit by category](https://github.com/user-attachments/assets/544915ee-dac6-4e38-8630-65b8b7536985)
 
 
 # Conclusion
