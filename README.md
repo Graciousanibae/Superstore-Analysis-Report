@@ -26,15 +26,18 @@ This is where I answered specific business questions for sale performance analys
 Before going ahead to answer the question, I first need to specify the KPI (Key Performance Indicators). The KPI include the Sales, Quantity, Profit, and Discount. This is done by creating measures and using DAX to calculate the total sales, profit, quantity, and discount
 
 1. Sales: I use SUM function to get total sales
-![Sales ](https://github.com/user-attachments/assets/56a94de6-9c93-42c1-a378-171752a8b945)
+
+   ![Sales ](https://github.com/user-attachments/assets/56a94de6-9c93-42c1-a378-171752a8b945)
 
 
 2. Quantity: SUM of quantity in the dataset
-![Quantity](https://github.com/user-attachments/assets/995b724b-cd26-46f7-a236-c0d16e822d54)
+
+    ![Quantity](https://github.com/user-attachments/assets/995b724b-cd26-46f7-a236-c0d16e822d54)
 
 
 3. Profit: SUM of profit in the data set
-![Profit](https://github.com/user-attachments/assets/7de88e5d-97bb-49fe-907d-2f2146a3cadf)
+
+   ![Profit](https://github.com/user-attachments/assets/7de88e5d-97bb-49fe-907d-2f2146a3cadf)
 
 
 
@@ -46,19 +49,19 @@ I used the KPI tile to visualize my KPI. i could also use the Card tile.
 
 1.Sales Amount by Categories ?
 
- ![Sales Amount by Category](https://github.com/user-attachments/assets/8ad91ab2-a675-40aa-bd68-ab0f206d521a)
+   ![Sales Amount by Category](https://github.com/user-attachments/assets/8ad91ab2-a675-40aa-bd68-ab0f206d521a)
 
 
 2.Sales by Region ?
 
-![Sales by Region ](https://github.com/user-attachments/assets/89ee09dd-5fea-4e80-bc10-690d60b4542f)
+   ![Sales by Region ](https://github.com/user-attachments/assets/89ee09dd-5fea-4e80-bc10-690d60b4542f)
 
 
 3. Profit by Categories ?
-![Profit by category](https://github.com/user-attachments/assets/544915ee-dac6-4e38-8630-65b8b7536985)
+   ![Profit by category](https://github.com/user-attachments/assets/544915ee-dac6-4e38-8630-65b8b7536985)
 
 
 # Conclusion
 So far, I’ve been able to analyze the superstore dataset and to draw valuable insights through the business questions. Based on these findings, i can be able to provide data-driven recommendations to help for business growth. The resulting dashboard built from powerbi is shown below:
 
-![PBI DashBoard](https://github.com/user-attachments/assets/fe8c6006-b47c-41b3-a9db-107e2097381f)
+  ![PBI DashBoard](https://github.com/user-attachments/assets/fe8c6006-b47c-41b3-a9db-107e2097381f)
